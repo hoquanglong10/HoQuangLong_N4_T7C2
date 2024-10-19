@@ -3,5 +3,6 @@
 ### Github: https://github.com/hoquanglong10
 # About me
 ## 🔭 I’m working on HUFLIT.
-## Im currently a Web Developer.
+## Im working on a Student Management Web Application  
+## My web helps students contact more 
 ### Contact me at:
