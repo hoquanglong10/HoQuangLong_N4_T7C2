@@ -1,2 +1,2 @@
-Hi!🙌 Im Long\\
-Im currently a Web Developer.
+\\Hi!🙌 Im Long
+\\Im currently a Web Developer.
