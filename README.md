@@ -27,7 +27,7 @@ I collaborate with an innovative team at HUFLIT, and together we've tackled a va
 ## 🌱 Currently Exploring
 
 I'm delving deeper into front-end frameworks and enhancing my skills in React to build more interactive and user-friendly applications.
-## About my website:
+## 📖About my website:
 The Student Management System is a specialized software designed to manage student information and activities within an educational environment. With many years of experience in this field, the system has established a solid and flexible platform that meets the diverse needs of universities, colleges, and other educational institutions.
 
 
