@@ -31,4 +31,3 @@ I'm delving deeper into front-end frameworks and enhancing my skills in React to
 
 
 **Contact me at:** hoquanglong10@gmail.com
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your_facebook_profile)
