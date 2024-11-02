@@ -41,7 +41,7 @@ The Student Management System is a specialized software designed to manage stude
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+      <a href="https://www.facebook.com/qlzuize10" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
